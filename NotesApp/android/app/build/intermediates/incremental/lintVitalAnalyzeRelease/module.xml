@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\React Native\Apps\NotesApp\NotesApp\android\app"
+    name=":app"
+    type="APP"
+    maven="NotesApp:app:"
+    gradle="7.4.2"
+    buildFolder="build"
+    bootClassPath="C:\Users\mukes\AppData\Local\Android\Sdk\platforms\android-33\android.jar;C:\Users\mukes\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

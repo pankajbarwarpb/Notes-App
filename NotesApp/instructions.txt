@@ -1,0 +1,7 @@
+using native base : 
+    npm i native-base react-native-svg@12.1.1 react-native-safe-area-context@3.3.2
+    npm i @react-native-async-storage/async-storage
+    npm i @react-navigation/native-stack
+    npm i @react-navigation/native
+    npm i @react-navigation/native-stack@latest
+    npm i react-native-screens@latest

@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.notesapp.test" >
+4
+5    <uses-sdk
+5-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:5:15-41
+7        android:targetSdkVersion="33" />
+7-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:11:5-15:62
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:11:22-75
+11        android:functionalTest="false"
+11-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:13:22-53
+13        android:label="Tests for com.notesapp"
+13-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:15:22-60
+14        android:targetPackage="com.notesapp" />
+14-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:12:22-58
+15
+16    <application android:debuggable="true" >
+16-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:8:9-60
+17-->D:\React Native\Apps\NotesApp\NotesApp\android\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest201356653471140412.xml:8:23-57
+18    </application>
+19
+20</manifest>

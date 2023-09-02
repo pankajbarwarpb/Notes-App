@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-xxxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.notesapp-main-33:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-mdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-xxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-xxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-mdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.notesapp-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-xhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-hdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-hdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.notesapp-merged_res-31:/mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.notesapp-main-33:/mipmap-xhdpi/ic_launcher_adaptive_fore.png"
+    }
+]

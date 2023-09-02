@@ -1,0 +1,4 @@
+#Wed Aug 23 07:28:04 IST 2023
+base.0=D\:\\React Native\\Apps\\NotesApp\\NotesApp\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

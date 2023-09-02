@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.notesapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:3:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.182.0] C:\Users\mukes\.gradle\caches\transforms-3\e13f88164840fe641a466d05cd8edac7\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.182.0] C:\Users\mukes\.gradle\caches\transforms-3\e13f88164840fe641a466d05cd8edac7\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
+14
+15    <application
+15-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:5:5-23:19
+16        android:name="com.notesapp.MainApplication"
+16-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:6:7-38
+17        android:allowBackup="false"
+17-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:9:7-34
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.7.0] C:\Users\mukes\.gradle\caches\transforms-3\75e4635b66fa4e4e84e71b52579837ce\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:8:7-41
+21        android:label="@string/app_name"
+21-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:7:7-39
+22        android:theme="@style/AppTheme"
+22-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:10:7-38
+23        android:usesCleartextTraffic="true" >
+23-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\debug\AndroidManifest.xml:8:9-44
+24        <activity
+24-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\debug\AndroidManifest.xml:11:9-111
+25            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+25-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\debug\AndroidManifest.xml:11:19-83
+26            android:exported="false" />
+26-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\debug\AndroidManifest.xml:11:84-108
+27        <activity
+27-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:11:7-22:18
+28            android:name="com.notesapp.MainActivity"
+28-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:12:9-37
+29            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+29-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:14:9-118
+30            android:exported="true"
+30-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:17:9-32
+31            android:label="@string/app_name"
+31-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:13:9-41
+32            android:launchMode="singleTask"
+32-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:15:9-40
+33            android:windowSoftInputMode="adjustResize" >
+33-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:16:9-51
+34            <intent-filter>
+34-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:18:9-21:25
+35                <action android:name="android.intent.action.MAIN" />
+35-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:19:13-65
+35-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:19:21-62
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:20:13-73
+37-->D:\React Native\Apps\Notes App\NotesApp\android\app\src\main\AndroidManifest.xml:20:23-70
+38            </intent-filter>
+39        </activity>
+40
+41        <meta-data
+41-->[com.facebook.soloader:soloader:0.10.5] C:\Users\mukes\.gradle\caches\transforms-3\ec3312a013bd7d8a70466a1977a1dba4\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+42            android:name="com.facebook.soloader.enabled"
+42-->[com.facebook.soloader:soloader:0.10.5] C:\Users\mukes\.gradle\caches\transforms-3\ec3312a013bd7d8a70466a1977a1dba4\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57
+43            android:value="false" />
+43-->[com.facebook.soloader:soloader:0.10.5] C:\Users\mukes\.gradle\caches\transforms-3\ec3312a013bd7d8a70466a1977a1dba4\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+44
+45        <provider
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\223146ef33e3aa619e8b04649706e145\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\223146ef33e3aa619e8b04649706e145\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+47            android:authorities="com.notesapp.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\223146ef33e3aa619e8b04649706e145\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\223146ef33e3aa619e8b04649706e145\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\223146ef33e3aa619e8b04649706e145\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\223146ef33e3aa619e8b04649706e145\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\223146ef33e3aa619e8b04649706e145\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mukes\.gradle\caches\transforms-3\d5d05479173d466a6bd0989b3b3e5ef4\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mukes\.gradle\caches\transforms-3\d5d05479173d466a6bd0989b3b3e5ef4\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mukes\.gradle\caches\transforms-3\d5d05479173d466a6bd0989b3b3e5ef4\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+55        </provider>
+56    </application>
+57
+58</manifest>
